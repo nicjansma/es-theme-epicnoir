@@ -4,23 +4,20 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Neo Geo</text>
+    <text>Neo Geo CD</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Neo Geo</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
-    <size>0 0</size>
+    <text>Neo Geo CD</text>
+
   </text> 
   <text name="shortdescription" extra="true">
-   <text>1990  ·  24-bit Console</text>
+   <text>1994  ·  24-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Originally launched as the MVS coin-operated arcade machine. It was ranked 19th out of 25 best video game consoles of all time</text>
+   <text>The Neo Geo CD is the second home video game console of SNK Corporation's Neo Geo family, released in September 9, 1994, four years after its cartridge-based equivalent.</text>
   </text>
  </view>
 </theme>

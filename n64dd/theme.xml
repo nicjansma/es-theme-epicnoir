@@ -4,20 +4,20 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Options</text>
+    <text>Nintendo 64DD</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Options</text>
+    <text>Nintendo 64DD</text>
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>System Configuration</text>
+   <text>1996  ·  64-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+   <text>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch</text>
   </text>
  </view>
 </theme>

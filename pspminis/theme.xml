@@ -3,21 +3,22 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
-    <text>Options</text>
+  <text name="nameLabel" extra="true">
+    <text>Playstation Portable</text>
   </text>
 </view>    
 
 <view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Options</text>
 
-  </text> 
+  <text name="sys_line2" extra="true">
+    <text>PSP Minis</text>
+
+</text>
   <text name="shortdescription" extra="true">
-   <text>System Configuration</text>
+   <text>2004  ·  32-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+   <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
   </text>
  </view>
 </theme>

@@ -10,14 +10,14 @@
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Options</text>
+    <text>Retroarch</text>
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>System Configuration</text>
+   <text>Front-End</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+   <text>RetroArch is a frontend for emulators, game engines and media players</text>
   </text>
  </view>
 </theme>
