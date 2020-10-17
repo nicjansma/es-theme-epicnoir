@@ -2,6 +2,9 @@
 
 This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
 
+Edits made by Jetup13
+Deacreased file sizes by nearly half, added systems, and made edits to make it viewable on smaller 480x320 devices like Odroid Go Advanced, RGB10, RK2020, RG351P, ect.
+
 ---
 
 ### License
