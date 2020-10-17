@@ -4,20 +4,20 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>COMMODORE VIC-20</text>
+    <text>TurboGrafx-16</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>VIC-20</text>
+    <text>TurboGrafx-16</text>
 
-  </text>    
+  </text>   
   <text name="shortdescription" extra="true">
-   <text>1980  ·  8-bit Computer</text>
+   <text>1987  ·  16-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The VIC-20 was the first computer of any description to sell one million units.</text>
+   <text>Originally intended to compete with the NES, it ended up competing with the Sega Genesis, and later on the Super Nintendo</text>
   </text>
  </view>
 </theme>
