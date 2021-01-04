@@ -9,14 +9,10 @@
 </view>    
 
 <view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Sega Master</text>
-
-  </text>
   <text name="sys_line2" extra="true">
-    <text>System</text>
-
+    <text>Sega Master System</text>
 </text>
+  
   <text name="shortdescription" extra="true">
    <text>1985  ·  8-bit Console</text>
   </text>
