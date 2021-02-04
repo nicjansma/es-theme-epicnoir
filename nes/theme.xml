@@ -11,7 +11,7 @@
 <view name="system">
 
   <text name="sys_line2" extra="true">
-    <text>Nintendo Entertainment System</text>
+    <text>NES</text>
 </text>
   
   <text name="shortdescription" extra="true">
