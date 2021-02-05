@@ -16,8 +16,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 <formatVersion>7</formatVersion>
 
   	<variables>
+	    <GamelistviewSubsetName>Gamelist View</GamelistviewSubsetName>
 		<controllerSubsetName>Show controllers in system view</controllerSubsetName>
 	</variables>
+	
+	<subset name="Ganelistview" displayName="${GamelistviewSubsetName}">
+        <include name="Large (Default)" displayName="${Large (Default)}">./Large.xml</include>
+        <include name="Small" displayName="${Small}">./Small.xml</include>
+    </subset>
 	
 	<subset name="controller" displayName="${controllerSubsetName}">
         <include name="on" displayName="${on}"/>
@@ -129,28 +135,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 </view>
 
 <view name="basic, detailed, video">
-
-    <image name="background" extra="true">
-        <tile>false</tile>
-        <path>./_art/ingame-global-bg.jpg</path>
-        <size>1 1</size>
-        <pos>0 0</pos>
-    </image>
-
-    <textlist name="gamelist">
-        <selectorColor>1c1c1c</selectorColor>
-        <selectedColor>ffffff</selectedColor>
-        <selectorHeight>0.07</selectorHeight>
-        <primaryColor>585858</primaryColor>
-        <secondaryColor>888888</secondaryColor>
-        <fontPath>./_art/Acre.otf</fontPath>
-        <alignment>left</alignment>
-        <pos>0 0.0833</pos>
-	    <size>0.323 0.8513</size>
-        <fontSize>0.03</fontSize>
-        <lineSpacing>1.683</lineSpacing>
-        <horizontalMargin>0.02864</horizontalMargin>
-    </textlist>
 	
 	<helpsystem name="help">
         <pos>1 1</pos>
@@ -166,7 +150,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>F8F8F8</color>
         <fontSize>0.034</fontSize>
         <origin>0 0</origin>
-        <pos>0.029 0</pos>
         <size>0.20 0.08</size>
     </text>
     
@@ -222,7 +205,15 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>00000000</color>
         <pos>0 0</pos>
     </text>
-
+	
+	 <rating name="md_rating">
+		 <visible>false</visible>
+     </rating>
+	 
+	 <text name="md_lbl_rating">
+		 <visible>false</visible>
+     </text> 
+	 
     <datetime name="md_releasedate, md_lastplayed">
         <origin>1 1</origin>
         <color>00000000</color>
