@@ -16,11 +16,17 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 <formatVersion>7</formatVersion>
 
   	<variables>
+	    <SystemviewSubsetName>System View</SystemviewSubsetName>
 	    <GamelistviewSubsetName>Gamelist View</GamelistviewSubsetName>
 		<controllerSubsetName>Show controllers in system view</controllerSubsetName>
 	</variables>
 	
-	<subset name="Ganelistview" displayName="${GamelistviewSubsetName}">
+	<subset name="Systemview" displayName="${SystemviewSubsetName}">
+        <include name="Vertical" displayName="${Vertical}">./_art/systemview/vertical.xml</include>
+        <include name="Horizontal" displayName="${Horizontal}">./_art/systemview/horizontal.xml</include>
+    </subset>
+	
+	<subset name="Gamelistview" displayName="${GamelistviewSubsetName}">
         <include name="Large (Default)" displayName="${Large (Default)}">./Large.xml</include>
         <include name="Small" displayName="${Small}">./Small.xml</include>
     </subset>
@@ -49,7 +55,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 
     <carousel name="systemcarousel">
-        <type>vertical</type>
         <color>00000000</color>
         <origin>1 1</origin>
         <pos>1 1</pos>
