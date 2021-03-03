@@ -10,11 +10,11 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Sega</text>
+    <text>Sega Master</text>
 	
   </text>
   <text name="sys_line2" extra="true">
-    <text>Master System</text>
+    <text>System</text>
 
 </text>
   <text name="shortdescription" extra="true">
