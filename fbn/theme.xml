@@ -4,24 +4,24 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Sega Master System</text>
+    <text>FBN</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Sega</text>
-	
+    <text>Final Burn</text>
+
   </text>
   <text name="sys_line2" extra="true">
-    <text>Master System</text>
+    <text>Neo</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1985  ·  8-bit Console</text>
+   <text>Coin Operated Cabinet</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Succeeding the SG-1000, the Master System was released as a direct competitor to the Nintendo Entertainment System (NES)</text>
+   <text>Final Burn Neo is an active fork of the FinalBurn Alpha emulator, created by many of the former FBA developers</text>
   </text>
  </view>
 </theme>
