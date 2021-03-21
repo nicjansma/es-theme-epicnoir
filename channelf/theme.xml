@@ -4,24 +4,22 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>NEC PC-98</text>
+    <text>Channel F</text>
   </text>
 </view>    
 
 <view name="system">
-
   <text name="sys_line1" extra="true">
-    <text>NEC</text>
+    <text>Fairchild</text>
   </text> 
-
   <text name="sys_line2" extra="true">
-    <text>PC-98</text>
-  </text>   
+    <text>Channel F</text>
+  </text>    
   <text name="shortdescription" extra="true">
-   <text>1982  ·  32-bit Computer</text>
+   <text>1976  ·  2-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000</text>
+   <text>The Fairchild Channel F is a home video game console released 1976. It has the distinction of being the first programmable ROM cartridge–based video game console, and the first console to use a microprocessor</text>
   </text>
  </view>
 </theme>

@@ -19,6 +19,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	    <fullscreenfixSubsetname>Choose Emulationstation That's In Use</fullscreenfixSubsetname>
 	    <SystemviewSubsetName>System Scroll View</SystemviewSubsetName>
 		<controllerSubsetName>Show Controllers</controllerSubsetName>
+		<shortdescriptionSubsetName>Show Short Description</shortdescriptionSubsetName>
 	</variables>
 	
 	<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
@@ -34,6 +35,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<subset name="controller" displayName="${controllerSubsetName}">
         <include name="on" displayName="${on}"/>
         <include name="off" displayName="${off}">./_art/settings/controllers.xml</include>
+    </subset>
+	
+	<subset name="shortdescription" displayName="${shortdescriptionSubsetName}">
+        <include name="on" displayName="${on}"/>
+        <include name="off" displayName="${off}">./_art/settings/shortdescription.xml</include>
     </subset>
 	
   <view name="menu">

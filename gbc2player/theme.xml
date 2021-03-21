@@ -3,25 +3,25 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
-    <text>NEC PC-98</text>
+  <text name="nameLabel" extra="true">
+    <text>GBC 2 Player</text>
   </text>
 </view>    
 
 <view name="system">
-
   <text name="sys_line1" extra="true">
-    <text>NEC</text>
-  </text> 
+    <text>Gameboy Color</text>
 
+  </text>
   <text name="sys_line2" extra="true">
-    <text>PC-98</text>
-  </text>   
+    <text>2 Player</text>
+
+</text>
   <text name="shortdescription" extra="true">
-   <text>1982  ·  32-bit Computer</text>
+   <text>1998  ·  8-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000</text>
+   <text>The Game Boy Color features a color screen. It is slightly thicker and taller and features a slightly smaller screen then the Game Boy Pocket</text>
   </text>
  </view>
 </theme>

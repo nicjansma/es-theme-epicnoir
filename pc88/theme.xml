@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>NEC PC-98</text>
+    <text>NEC PC-88</text>
   </text>
 </view>    
 
@@ -15,13 +15,13 @@
   </text> 
 
   <text name="sys_line2" extra="true">
-    <text>PC-98</text>
-  </text>   
+    <text>PC-88</text>
+  </text>    
   <text name="shortdescription" extra="true">
-   <text>1982  ·  32-bit Computer</text>
+   <text>1981  ·  8-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000</text>
+   <text>PC-88 are a brand of Zilog Z80-based 8-bit home computers released by Nippon Electric Company in 1981 and primarily sold in Japan</text>
   </text>
  </view>
 </theme>

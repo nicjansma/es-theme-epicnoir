@@ -3,25 +3,26 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
-    <text>NEC PC-98</text>
+  <text name="nameLabel" extra="true">
+    <text>NES HACKS</text>
   </text>
 </view>    
 
 <view name="system">
 
   <text name="sys_line1" extra="true">
-    <text>NEC</text>
-  </text> 
+    <text>NES</text>
+</text>
 
   <text name="sys_line2" extra="true">
-    <text>PC-98</text>
-  </text>   
+    <text>HACKS</text>
+</text>
+  
   <text name="shortdescription" extra="true">
-   <text>1982  ·  32-bit Computer</text>
+   <text>1983  ·  8-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000</text>
+   <text>The best selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983</text>
   </text>
  </view>
 </theme>
