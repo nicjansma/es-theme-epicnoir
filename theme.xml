@@ -25,6 +25,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
         <include name="ES Header" displayName="${ES Header}">./header.xml</include>
         <include name="ES Fullscreen" displayName="${ES Fullscreen}">./fullscreen.xml</include>
+		<include name="ES Fullscreen V" displayName="${ES Fullscreen V}">./fullscreenv.xml</include>
     </subset>
 	
 	<subset name="Systemview" displayName="${SystemviewSubsetName}">
