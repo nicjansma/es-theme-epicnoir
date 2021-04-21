@@ -5,6 +5,8 @@ This is a modern dark RetroPie theme based on original ideas by Chicuelo and bro
 Edits made by Jetup13
 Deacreased file sizes by nearly half, added systems, and made edits to make it viewable on smaller 480x320 devices like Odroid Go Advanced, RGB10, RK2020, RG351P, ect.
 
+![](https://i.imgur.com/KzQBtYu.png)
+
 ---
 
 ### License
@@ -47,118 +49,5 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 * Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
-
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
-
----
-
-### Installation and Updating
-
-1. Close EmulationStation.
-
-2. Create folder `~/.emulationstation/themes` if it does not exist.
-
-3. Run in a terminal:
-
-       cd ~/.emulationstation/themes
-       git clone https://github.com/c64-dev/es-epicnoir.git --branch master
-
-### Update
-
-In order to update your installed theme (if you installed with above instructions), open a terminal and run:
-
-    cd ~/.emulationstation/themes/es-epicnoir
-    git pull
-
-### Theme Notes
-
-This theme supports video. You can also use a scraped image in conjunction with the video. If you scrape both, when a game is selected, it will show the screenshot for a couple of seconds before fading and playing the video.
-
-Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
-
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
-
----
-
-### Screenshots
-
-![Sample01](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/001.jpg) \
-![Sample02](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/002.jpg) \
-![Sample03](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/003.jpg) \
-![Sample04](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/004.jpg) \
-![Sample05](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/005.jpg) \ 
-![Sample06](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/006.jpg) \
-![Sample07](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/007.jpg) \
-![Sample08](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/008.jpg) \
-![Sample09](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/009.jpg) \
-![Sample10](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/010.jpg) \
-![Sample11](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/011.jpg) \
-![Sample12](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/012.jpg) \
-![Sample13](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/013.jpg) 
-
-
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
-
-## Fully Supported Systems
-###### (backgrounds, controller images, descriptions) :
-
-3DO \
-Amstrad CPC \
-Apple ][ \
-Apple Macintosh \
-Atari 800 \
-Atari 2600 \
-Atari 5200 \
-Atari 7800 \
-Atari Jaguar \
-Atari Lynx \
-Atari ST \
-Commodore 64 \
-Commodore Amiga \
-ColecoVision \ 
-Daphne \
-Famicom & Super Famicom \ 
-Game & Watch \
-Intellivision \
-MAME \ 
-MS-DOS \
-MSX & MSX 2 \
-Neo Geo \
-Neo Geo Pocket & Pocket Color \ 
-Nintendo 64 \
-Nintendo DS \
-Nintendo Dreamcast \ 
-Nintendo Entertainment System \
-Nintendo Gameboy \
-Nintendo Gameboy  Advance\
-Nintendo Gameboy Color \
-Nintendo GameCube \
-Nintendo SNES \
-Nintendo VirtualBoy \
-Nintendo Wii & WiiU \
-PC-Engine \
-ScummVM \
-Sega Gamegear \
-Sega Genesis \
-Sega Mastersystem \
-Sega Mega 32x & CD \
-Sega Megadrive \
-Sega Saturn \
-Sega SG-1000 \
-Sinclair ZX Spectrum \
-Sony Playstation \
-Sony Playstation 2 \
-Sony PSP \
-SuperGrafx \
-TurboGrafx-16 \
-Valve Steam \
-Vectrex \
-Wonderswan \
-Wonderswan Color \
-x-68000 
-
-**Collections:** \
-Auto Collections
-Custom Collections (for when a user creates their own collection within ES)
 
 ###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
