@@ -16,7 +16,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 <formatVersion>7</formatVersion>
 
   	<variables>
-	    <fullscreenfixSubsetname>Choose Emulationstation That's In Use</fullscreenfixSubsetname>
+	    <fullscreenfixSubsetname>Emulationstation Screen Size</fullscreenfixSubsetname>
 	    <SystemviewSubsetName>System Scroll View</SystemviewSubsetName>
 		<controllerSubsetName>Show Controllers</controllerSubsetName>
 		<shortdescriptionSubsetName>Show Short Description</shortdescriptionSubsetName>
@@ -25,7 +25,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
         <include name="ES Header" displayName="${ES Header}">./header.xml</include>
         <include name="ES Fullscreen" displayName="${ES Fullscreen}">./fullscreen.xml</include>
-		<include name="ES Fullscreen V" displayName="${ES Fullscreen V}">./fullscreenv.xml</include>
+		<include name="RG351V" displayName="${RG351V}">./fullscreenv.xml</include>
     </subset>
 	
 	<subset name="Systemview" displayName="${SystemviewSubsetName}">
